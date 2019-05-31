@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.concrete.desafio.check.AppController&apos; to &apos;SqlUserm&apos;&#x0D;&#x0A;- Original project: &apos;check&apos;&#x0D;&#x0A;- Original element: &apos;com.concrete.desafio.check.AppController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.concrete.desafio.check.SqlUserm&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AppController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.concrete.desafio.check{AppController.java[AppController" matchStrategy="1" name="SqlUserm" qualified="false" references="true" similarDeclarations="false" stamp="1559311580521" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+package modelo;
+
+import java.sql.Connection;
+import com.mysql.jdbc.PreparedStatement;
+
+public class SQLUsuarios extends Conexion {
+
+	public boolean registrar(Usuarios usr) {
+		
+		//consulta 
+		PreparedStatement ps = null;
+		Connection con = getConexion();
+		
+	}
+}
